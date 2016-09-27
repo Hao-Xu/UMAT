@@ -28,7 +28,7 @@ C      REAL*16
       PROPS(4)  = 3.94E-11
       PROPS(5)  = -1.26E-12
       PROPS(6)  = 2.51E-12
-      PROPS(7)  = 0.11E6
+      PROPS(7)  = 0.E6
       PROPS(8)  = 2.2E6
       PROPS(9)  = 0.231
       PROPS(10) = 0.
